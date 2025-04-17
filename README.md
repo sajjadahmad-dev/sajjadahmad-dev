@@ -23,11 +23,15 @@ puzzles.
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib"/>
 </div>
 
-<h2><i>📚 Currently Learning</i></h2>
-🔭 I’m currently working on **Deep Learning**.
-🌱 I’m learning more about **Data Structures & Algorithms**.
-🤝 I’m looking for help with **Machine Learning** projects.
-💬 Ask me about **Scikit-learn**, **Machine Learning**, **Computer Vision**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anique-1&label=Profile%20views&color=0e75b6&style=flat" alt="anique-1" /> </p>
+
+- 🔭 I’m currently working on Deep learning.
+
+- 🌱 I’m currently learning **Data Struture & Algorithms.
+
+- 🤝 Open to collaborations on Machine Learning projects.
+- 
+- 💬 Ask me about Sk-learn, Machine Learning, Computer vision.
 
 
 
