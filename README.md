@@ -23,9 +23,11 @@ puzzles.
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib"/>
 </div>
 
+<h2><i>📚 Currently Learning</i></h2>
+
 - 🔭 I’m currently working on Deep learning.
 
-- 🌱 I’m currently learning **Data Struture & Algorithms.
+- 🌱 I’m currently learning Data Struture & Algorithms.
 
 - 🤝 Open to collaborations on Machine Learning projects.
 
