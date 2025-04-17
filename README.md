@@ -18,9 +18,7 @@
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,sql" />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,sql,vscode,git,github,androidstudio,tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib" />
 </div>
 
 <br />
