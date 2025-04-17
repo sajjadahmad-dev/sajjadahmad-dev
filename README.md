@@ -17,8 +17,8 @@
 - @ **[Typing Speed](https://www.linkedin.com/posts/sajjadahmad-dev_typingspeed-productivity-coding-activity-7311534346966859776-62xw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Achieved more than 70 WPM.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,sql" />
+<div>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,sql," />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
