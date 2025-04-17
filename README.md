@@ -24,13 +24,11 @@ puzzles.
 </div>
 
 <h2><i>📚 Currently Learning</i></h2>
-- I'm currently working on **Machine Learning**, **Deep Learning**, and **Data Structures & Algorithms**.
+🔭 I’m currently working on **Deep Learning**.
+🌱 I’m learning more about **Data Structures & Algorithms**.
+🤝 I’m looking for help with **Machine Learning** projects.
+💬 Ask me about **Scikit-learn**, **Machine Learning**, **Computer Vision**.
 
-<h2><i>🤝 Looking for Collaboration</i></h2>
-- I’m looking for collaboration on **Machine Learning** projects.
-
-<h2><i>💬 Ask me about</i></h2>
-- **Scikit-learn**, **Machine Learning**, **Computer Vision**, **TensorFlow**, and more!
 
 
 <br />
