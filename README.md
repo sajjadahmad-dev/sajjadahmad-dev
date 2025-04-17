@@ -27,7 +27,7 @@ puzzles.
 
 - 🔭 I’m currently working on Deep learning.
 
-- 🌱 I’m currently learning Data Struture & Algorithms.
+- 🌱 I’m currently learning more deeply Data Struture & Algorithms.
 
 - 🤝 Open to collaborations on Machine Learning projects.
 
