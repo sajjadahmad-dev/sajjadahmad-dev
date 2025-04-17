@@ -23,7 +23,16 @@ puzzles.
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib"/>
 </div>
 
-<br />
+<h2><i>📚 Currently Learning</i></h2>
+- I'm currently working on **Machine Learning**, **Deep Learning**, and **Data Structures & Algorithms**.
+
+<h2><i>🤝 Looking for Collaboration</i></h2>
+- I’m looking for collaboration on **Machine Learning** projects.
+
+<h2><i>💬 Ask me about</i></h2>
+- **Scikit-learn**, **Machine Learning**, **Computer Vision**, **TensorFlow**, and more!
+
+
 <br />
 
 ## Connect with Me 🤝
