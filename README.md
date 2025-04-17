@@ -5,15 +5,14 @@
 </h1>
 <h2><b>Fueling Passion for Problem-Solving Through Code 🖥️></h2>
 	
-- **Training Showcase → [👀]([https://docs.google.com/spreadsheets/d/1cEH4Vz4KS-mZ6fouYTLP_CSqNOvocQ8_6wKSrjfuYBM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Xtiz9WXDHDrqM25LmYuYG9kqpImI446FvjEOAzgfVzM/edit?usp=sharing))** 
+- **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1Xtiz9WXDHDrqM25LmYuYG9kqpImI446FvjEOAzgfVzM/edit?usp=sharing)**
 
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures & Algorithms and Web Development.
 - @ **[Pak Angels](https://www.linkedin.com/company/pakangels/mycompany/)**: Providing training on Generative AI colaboration with **[Pakistan Engineering Council](https://www.linkedin.com/company/pakpecofficial/mycompany/)**.
 - @ **[University Hub Pakistan](https://www.linkedin.com/company/universityhubpakistan/)**: Providing training on University prep, technical webinars, and short courses for students.
 - @ **[LeetCode](https://leetcode.com/u/Sajjad__Ahmad/)**: Solved 110+ Data Structures & Algorithms problems.
 - @ **[Lablab.ai](https://leetcode.com/u/Sajjad__Ahmad/)**: Attended 5 international hackathons via **[Lablab.ai](https://lablab.ai)**.  
-- @ **[Harvard University]([https://www.linkedin.com/posts/danishmustafa86_cs50xabrpuzzleabrdayabr2024-activity-7185718867233513472-dUre?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/sajjadahmad-dev_cs50x-puzzleday2025-certificate-activity-7316552487295959041-uhhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU))**: Our team won 1st place at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
-puzzles.  
+- @ **[Harvard University](https://www.linkedin.com/posts/sajjadahmad-dev_cs50x-puzzleday2025-certificate-activity-7316552487295959041-uhhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Our team won 1st place at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.  
 - **@[MIT Winter Contest 2025](https://www.linkedin.com/posts/sajjadahmad-dev_zetacodex-zetacodex-mititwinter2025-activity-7287178745138835457-10Gv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Participated in MIT Winter Contest  **2025** we solve complex problems and we're 83th out of 536 teams globally.
 - @ **[Typing Speed](https://www.linkedin.com/posts/sajjadahmad-dev_typingspeed-productivity-coding-activity-7311534346966859776-62xw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Achieved more than 70 WPM.
 
