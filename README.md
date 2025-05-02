@@ -67,16 +67,19 @@
     <img src="https://storage.googleapis.com/lablab-static-eu/images/events/clyyg9s36000f357erj4ytsnm/clyyg9s36000f357erj4ytsnm_imageLink_143zw03r1.jpg" width="390" height="205" alt="TechEase Challenge">
   </a>
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/ai-ninjas/wave-tracker">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390" height="205" alt="Hack This Fall 2024">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390" height="205" alt="ai-for-connectivity-hackathon">
   </a>
   <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/spacers/orbitmind-ai-agents-for-space-operations">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390" height="205" alt="TechEase Screenshot">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390" height="205" alt="/aistronauts-space-agents-on-a-mission">
   </a>
   <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepseekers/deep-consent-ai-powered-smart-consent-management">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390" height="205" alt="AI Agent Screenshot">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390" height="205" alt="fall-in-love-with-deepseek">
   </a>
     <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/tech-innovation/fraudshield-ai-powered-fraud-detection-system">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390" height="205" alt="AI Agent Screenshot">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390" height="205" alt="generative-ai-hackathon-with-ibm-granite">
+  </a>
+    <a href="https://lablab.ai/event/execute-ai-genesis/hackercat/riskradar-business-risk-and-opportunity-analyzer?review=true">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390" height="205" alt="execute-ai-genesis">
   </a>
 </p>
 
