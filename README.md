@@ -14,6 +14,7 @@
 - @ **[Lablab.ai](https://leetcode.com/u/Sajjad__Ahmad/)**: Attended 5 international hackathons via **[Lablab.ai](https://lablab.ai)**.  
 - @ **[Harvard University](https://www.linkedin.com/posts/sajjadahmad-dev_cs50x-puzzleday2025-certificate-activity-7316552487295959041-uhhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Our team won 1st place at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.  
 - **@[MIT Winter Contest 2025](https://www.linkedin.com/posts/sajjadahmad-dev_zetacodex-zetacodex-mititwinter2025-activity-7287178745138835457-10Gv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Participated in MIT Winter Contest  **2025** we solve complex problems and we're 83th out of 536 teams globally.
+- - **@[UC Berkeley CALICO Spring 2025](https://www.linkedin.com/posts/sajjadahmad-dev_zetacodex-zetacodex-mititwinter2025-activity-7287178745138835457-10Gv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Participated in UC Berkeley's Global Coding Challenge CALICO Spring 2025, where my team ranked 261th internationally.
 - @ **[Typing Speed](https://www.linkedin.com/posts/sajjadahmad-dev_typingspeed-productivity-coding-activity-7311534346966859776-62xw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Achieved more than 70 WPM.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
