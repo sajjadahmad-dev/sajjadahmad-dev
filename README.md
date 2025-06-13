@@ -82,6 +82,9 @@
     <a href="https://lablab.ai/event/execute-ai-genesis/hackercat/riskradar-business-risk-and-opportunity-analyzer?review=true">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390" height="205" alt="execute-ai-genesis">
   </a>
+  <a href="https://lablab.ai/event/execute-ai-genesis/hackercat/riskradar-business-risk-and-opportunity-analyzer?review=true">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm9fp7ws500073570dswtb0bu%2Fcm9fp7ws500073570dswtb0bu_imageLink_sa27404my.jpg&w=1080&q=75">
+  </a>
 </p>
 
 
