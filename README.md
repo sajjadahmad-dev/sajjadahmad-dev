@@ -7,6 +7,7 @@
 	
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1Xtiz9WXDHDrqM25LmYuYG9kqpImI446FvjEOAzgfVzM/edit?usp=sharing)**
 
+- @ **[Hackathon Winner](https://www.linkedin.com/posts/sajjadahmad-dev_healthcareinnovation-artificialintelligence-activity-7390113006447218689-7QYK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: 🏆National Hackathon Winner – Tech & Entrepreneurship Summit 4.0 (UAF)
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures & Algorithms and Web Development.
 - @ **[Pak Angels](https://www.linkedin.com/company/pakangels/mycompany/)**: Providing training on Generative AI colaboration with **[Pakistan Engineering Council](https://www.linkedin.com/company/pakpecofficial/mycompany/)**.
 - @ **[University Hub Pakistan](https://www.linkedin.com/company/universityhubpakistan/)**: Providing training on University prep, technical webinars, and short courses for students.
