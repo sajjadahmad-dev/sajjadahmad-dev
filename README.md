@@ -13,10 +13,12 @@
 - @ **[Pak Angels](https://www.linkedin.com/posts/sajjadahmad-dev_generativeai-aiforpakistan-aspirepakistan-activity-7343996805220593665-mTTr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Providing training on Generative AI, Mentor and Judge @**[Pakistan Engineering Council](https://www.linkedin.com/company/pakpecofficial/mycompany/)**.
 - @ **[University Hub Pakistan](https://www.linkedin.com/company/universityhubpakistan/)**: Providing training on University prep, technical webinars, and short courses for students.
 - @ **[LeetCode](https://leetcode.com/u/Sajjad__Ahmad/)**: Solved 110+ Data Structures & Algorithms problems.
-- @ **[Lablab.ai](https://leetcode.com/u/Sajjad__Ahmad/)**: Attended 5 international hackathons via **[Lablab.ai](https://lablab.ai)**.  
-- @ **[Harvard University](https://www.linkedin.com/posts/sajjadahmad-dev_cs50x-puzzleday2025-certificate-activity-7316552487295959041-uhhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Our team won 1st place at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.  
+- @ **[Lablab.ai](https://leetcode.com/u/Sajjad__Ahmad/)**: Attended 5 international hackathons via **[Lablab.ai](https://lablab.ai)**.
+- @ **[Harvard University 2025](https://www.linkedin.com/posts/sajjadahmad-dev_cs50x-puzzleday2025-certificate-activity-7316552487295959041-uhhT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Our team won 1st place at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.  
 - **@[MIT Winter Contest 2025](https://www.linkedin.com/posts/sajjadahmad-dev_zetacodex-zetacodex-mititwinter2025-activity-7287178745138835457-10Gv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Participated in MIT Winter Contest  **2025** we solve complex problems and we're 83th out of 536 teams globally.
 - **@[UC Berkeley CALICO Spring 2025](https://github.com/sajjadahmad-dev/UC_Berkley_CALICO_Spring-25)**: Participated in UC Berkeley's Global Coding Challenge CALICO Spring 2025,we're ranked 261th internationally.
+- @ **[Meta Hacker Cup 2025](https://www.linkedin.com/posts/sajjadahmad-dev_growthmindset-studentlife-programmingjourney-activity-7387535163464970240-HrKF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Secured Top 12% Globally (1,581st / 13,779). Competed in the Human Track, solving high-difficulty algorithmic problems under timed pressure
+
 - @ **[Typing Speed](https://www.linkedin.com/posts/sajjadahmad-dev_typingspeed-productivity-coding-activity-7311534346966859776-62xw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Achieved more than 70 WPM.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
