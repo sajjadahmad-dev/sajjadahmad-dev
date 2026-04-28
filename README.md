@@ -7,7 +7,7 @@
 	
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1Xtiz9WXDHDrqM25LmYuYG9kqpImI446FvjEOAzgfVzM/edit?usp=sharing)**
 
-- @ **[Stanford Code in Place 2026 (Stanford University)](https://www.linkedin.com/posts/sajjadahmad-dev_python-cs106a-selected-ugcPost-7449003452543799296-NMAt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Selected as Section Leader for Stanford Code in Place 2026, teaching CS106A.
+- @ **[Stanford Code in Place 2026 (Stanford University)](https://www.linkedin.com/posts/sajjadahmad-dev_python-cs106a-selected-ugcPost-7449003452543799296-NMAt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Selected as Section Leader, teaching CS106A (Python).
 
 
 - @ **[Hackathon Winner🏆](https://www.linkedin.com/posts/sajjadahmad-dev_healthcareinnovation-artificialintelligence-activity-7390113006447218689-7QYK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: National Hackathon Winner – Tech & Entrepreneurship Summit 4.0 (UAF)
