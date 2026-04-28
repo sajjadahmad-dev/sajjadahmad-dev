@@ -7,6 +7,8 @@
 	
 - **Training Showcase → [👀](https://docs.google.com/spreadsheets/d/1Xtiz9WXDHDrqM25LmYuYG9kqpImI446FvjEOAzgfVzM/edit?usp=sharing)**
 
+- @ **[Stanford Code in Place 2026 (Stanford University)](https://www.linkedin.com/posts/sajjadahmad-dev_python-cs106a-selected-ugcPost-7449003452543799296-NMAt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Teaching CS106A (Introduction to Computer Science).
+
 - @ **[Hackathon Winner🏆](https://www.linkedin.com/posts/sajjadahmad-dev_healthcareinnovation-artificialintelligence-activity-7390113006447218689-7QYK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: National Hackathon Winner – Tech & Entrepreneurship Summit 4.0 (UAF)
 - @ **[3rd Position🏆](https://www.linkedin.com/posts/sajjadahmad-dev_artificialintelligence-innovation-automation-activity-7394439055771471872-4_0w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: 3rd Position – Innovation Competition (FLARE & BIC, UAF).
 - @ **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Providing training on Data Structures & Algorithms and Web Development.
