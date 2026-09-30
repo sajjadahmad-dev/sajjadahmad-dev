@@ -28,7 +28,7 @@
 - 🥉 **[3rd Position](https://www.linkedin.com/posts/sajjadahmad-dev_artificialintelligence-innovation-automation-activity-7394439055771471872-4_0w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Innovation Competition (FLARE & BIC, UAF).
 - 🎤 **AI & Business Conference 2026** (Florida Atlantic University): Presented *VisionCare AI*.
 
-##  Teaching & Mentoring
+## 🧑‍🏫 Teaching & Mentoring
 
 - **[iCodeGuru](https://www.linkedin.com/company/icode-guru/mycompany/)**: Course Trainer & Moderator. Taught DSA and Web Development, plus a 5-week IELTS/Duolingo prep course to 100+ students.
 - **[Pak Angels](https://www.linkedin.com/posts/sajjadahmad-dev_generativeai-aiforpakistan-aspirepakistan-activity-7343996805220593665-mTTr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFMfmkB3RTdHRMJTq05DdjGdMDkunsQ0RU)**: Generative AI Instructor. Delivered a 6-week program to 500+ students, and mentored and judged the final hackathon with the **[Pakistan Engineering Council](https://www.linkedin.com/company/pakpecofficial/mycompany/)**.
