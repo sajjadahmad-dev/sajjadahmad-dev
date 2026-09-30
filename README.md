@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sajjadahmad-dev/"><img src="https://img.shields.io/badge/Sajjad%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sajjadahmad-dev/"><img src="https://img.shields.io/badge/LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sajjadahmad.code@gmail.com"><img src="https://img.shields.io/badge/-sajjadahmad.code@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Sajjad__Ahmad/" target="_blank"><img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
   <a href="https://lablab.ai/u/@sajjadahmad" target="_blank"><img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat"/></a>
